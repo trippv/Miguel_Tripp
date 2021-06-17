@@ -1,0 +1,79 @@
+/* DATA DESCRIPTION:
+Citation:	Miest, Joanna; Arndt, Carmen; Adamek, Mikolaj; Steinhagen, Dieter; Reusch, Thorsten B H (2015): Growth during feeding of Scophthalmus maximus first feeding larvae with beta-glucan (MacroGard). PANGAEA, https://doi.org/10.1594/PANGAEA.856088, 
+	In supplement to: Miest, J et al. (2016): Dietary beta-glucan (MacroGard®) enhances survival of first feeding turbot (Scophthalmus maximus) larvae by altering immunity, metabolism and microbiota. Fish & Shellfish Immunology, 48, 94-104, https://doi.org/10.1016/j.fsi.2015.11.013
+Parameter(s):	Sample code/label (Sample label) * PI: Miest, Joanna (https://orcid.org/0000-0003-2534-0530, j.j.miest@gre.ac.uk) * COMMENT: Tank
+	Treatment (Treat) * PI: Miest, Joanna (https://orcid.org/0000-0003-2534-0530, j.j.miest@gre.ac.uk)
+	Time in days [days] (Time) * PI: Miest, Joanna (https://orcid.org/0000-0003-2534-0530, j.j.miest@gre.ac.uk) * COMMENT: Sampling time [days post hatch]
+	Sample ID (Sample ID) * PI: Miest, Joanna (https://orcid.org/0000-0003-2534-0530, j.j.miest@gre.ac.uk)
+	Species (Species) * PI: Miest, Joanna (https://orcid.org/0000-0003-2534-0530, j.j.miest@gre.ac.uk)
+	Mass [mg] (Mass) * PI: Miest, Joanna (https://orcid.org/0000-0003-2534-0530, j.j.miest@gre.ac.uk)
+	Length [mm] (l) * PI: Miest, Joanna (https://orcid.org/0000-0003-2534-0530, j.j.miest@gre.ac.uk)
+	Width [mm] (w) * PI: Miest, Joanna (https://orcid.org/0000-0003-2534-0530, j.j.miest@gre.ac.uk)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	510 data points
+*/
+Sample label	Treat	Time [days]	Sample ID	Species	Mass [mg]	l [mm]	w [mm]
+MG1	MacroGard	11	51	Scophthalmus maximus	0.1588	3.16	0.48
+MG1	MacroGard	11	52	Scophthalmus maximus	0.2607	3.22	0.68
+MG1	MacroGard	11	53	Scophthalmus maximus	0.5181	4.42	1.07
+MG1	MacroGard	11	54	Scophthalmus maximus	0.2352	3.37	0.52
+MG1	MacroGard	11	55	Scophthalmus maximus	0.2711	3.38	0.67
+MG1	MacroGard	11	56	Scophthalmus maximus	0.5563	4.09	0.86
+MG2	MacroGard	11	57	Scophthalmus maximus	0.4302	3.75	0.62
+MG2	MacroGard	11	58	Scophthalmus maximus	0.2380	3.00	0.54
+MG2	MacroGard	11	59	Scophthalmus maximus	0.3010	3.50	0.64
+MG2	MacroGard	11	60	Scophthalmus maximus	0.3022	4.07	0.82
+MG2	MacroGard	11	61	Scophthalmus maximus	0.2570	3.21	0.66
+MG2	MacroGard	11	62	Scophthalmus maximus	0.2147	3.05	0.55
+MG3	MacroGard	11	63	Scophthalmus maximus	0.7012	4.58	1.19
+MG3	MacroGard	11	64	Scophthalmus maximus	0.2913	3.60	0.62
+MG3	MacroGard	11	65	Scophthalmus maximus	0.1969	3.19	0.49
+MG3	MacroGard	11	66	Scophthalmus maximus	0.2830	3.21	0.70
+MG3	MacroGard	11	67	Scophthalmus maximus	0.6105	3.63	0.96
+MG3	MacroGard	11	68	Scophthalmus maximus	0.1736	2.70	0.42
+K1	Control	11	69	Scophthalmus maximus	0.3544	3.90	0.68
+K1	Control	11	70	Scophthalmus maximus	0.4470	4.08	0.74
+K1	Control	11	71	Scophthalmus maximus	0.2660	3.86	0.54
+K1	Control	11	72	Scophthalmus maximus	0.1948	3.00	0.44
+K1	Control	11	73	Scophthalmus maximus	0.2208	3.58	0.86
+K1	Control	11	74	Scophthalmus maximus	0.2253	3.30	0.44
+K2	Control	11	75	Scophthalmus maximus	0.6939	3.97	1.03
+K2	Control	11	76	Scophthalmus maximus	0.2376	3.82	0.87
+K2	Control	11	77	Scophthalmus maximus	0.1636	4.07	0.46
+K2	Control	11	78	Scophthalmus maximus	0.3561	3.61	0.74
+K2	Control	11	79	Scophthalmus maximus	0.3571	4.08	0.63
+K2	Control	11	80	Scophthalmus maximus	0.2413	4.04	0.60
+K3	Control	11	81	Scophthalmus maximus	0.2806	3.49	1.02
+K3	Control	11	82	Scophthalmus maximus	0.2712		
+K3	Control	11	83	Scophthalmus maximus	0.2368	3.24	0.63
+K3	Control	11	84	Scophthalmus maximus	0.2264	2.95	0.68
+K3	Control	11	85	Scophthalmus maximus	0.3201	3.69	0.62
+K3	Control	11	86	Scophthalmus maximus	0.3500	3.88	0.98
+K1	Control	24	87	Scophthalmus maximus	14.0805	8.23	4.59
+K1	Control	24	88	Scophthalmus maximus	19.3405	8.90	5.06
+K1	Control	24	89	Scophthalmus maximus	9.8206	8.14	3.73
+K1	Control	24	90	Scophthalmus maximus	16.2224	8.97	2.79
+K1	Control	24	91	Scophthalmus maximus	9.0523	7.24	3.40
+K2	Control	24	92	Scophthalmus maximus	11.4192	7.88	4.06
+K2	Control	24	93	Scophthalmus maximus	5.4422	6.97	2.81
+K2	Control	24	94	Scophthalmus maximus	23.3020	9.06	2.93
+K2	Control	24	95	Scophthalmus maximus	6.9602	7.40	3.22
+K2	Control	24	96	Scophthalmus maximus	20.3207	8.83	5.41
+K3	Control	24	97	Scophthalmus maximus	8.5100	7.38	3.54
+K3	Control	24	98	Scophthalmus maximus	2.9222	6.31	1.79
+K3	Control	24	99	Scophthalmus maximus	11.2582	8.30	4.24
+MG1	MacroGard	24	115	Scophthalmus maximus	9.7787	7.96	3.90
+MG1	MacroGard	24	116	Scophthalmus maximus	19.1253	9.34	5.85
+MG1	MacroGard	24	117	Scophthalmus maximus	11.3520	8.50	4.38
+MG1	MacroGard	24	118	Scophthalmus maximus	12.2649	8.02	2.74
+MG1	MacroGard	24	119	Scophthalmus maximus	11.1888	8.00	4.23
+MG2	MacroGard	24	120	Scophthalmus maximus	9.2774	8.24	3.85
+MG2	MacroGard	24	121	Scophthalmus maximus	23.9301	9.72	6.05
+MG2	MacroGard	24	122	Scophthalmus maximus	11.6840	8.02	2.74
+MG2	MacroGard	24	123	Scophthalmus maximus	9.8821	7.62	3.51
+MG2	MacroGard	24	124	Scophthalmus maximus	13.8729	8.55	4.73
+MG3	MacroGard	24	125	Scophthalmus maximus	16.3410	8.56	4.96
+MG3	MacroGard	24	126	Scophthalmus maximus	10.1667	7.87	2.41
+MG3	MacroGard	24	127	Scophthalmus maximus	14.2889	8.69	4.65
+MG3	MacroGard	24	128	Scophthalmus maximus	13.6606	8.32	4.78
+MG3	MacroGard	24	129	Scophthalmus maximus	18.0047	9.81	5.39
