@@ -1,0 +1,41 @@
+pelicula	genero	excitacion
+Bridget Jones' Diary	Hombre	22
+Bridget Jones' Diary	Hombre	13
+Bridget Jones' Diary	Hombre	16
+Bridget Jones' Diary	Hombre	10
+Bridget Jones' Diary	Hombre	18
+Bridget Jones' Diary	Hombre	24
+Bridget Jones' Diary	Hombre	13
+Bridget Jones' Diary	Hombre	14
+Bridget Jones' Diary	Hombre	19
+Bridget Jones' Diary	Hombre	23
+Memento	Hombre	37
+Memento	Hombre	20
+Memento	Hombre	16
+Memento	Hombre	28
+Memento	Hombre	27
+Memento	Hombre	18
+Memento	Hombre	32
+Memento	Hombre	24
+Memento	Hombre	21
+Memento	Hombre	35
+Bridget Jones' Diary	Mujer	3
+Bridget Jones' Diary	Mujer	15
+Bridget Jones' Diary	Mujer	5
+Bridget Jones' Diary	Mujer	16
+Bridget Jones' Diary	Mujer	13
+Bridget Jones' Diary	Mujer	20
+Bridget Jones' Diary	Mujer	11
+Bridget Jones' Diary	Mujer	19
+Bridget Jones' Diary	Mujer	15
+Bridget Jones' Diary	Mujer	7
+Memento	Mujer	30
+Memento	Mujer	25
+Memento	Mujer	31
+Memento	Mujer	36
+Memento	Mujer	23
+Memento	Mujer	14
+Memento	Mujer	21
+Memento	Mujer	31
+Memento	Mujer	22
+Memento	Mujer	14
