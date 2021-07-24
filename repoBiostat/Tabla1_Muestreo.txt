@@ -1,0 +1,145 @@
+"Individuo"	"Sitio"	"Estacion"	"Sexo"	"Profundidad"	"Longitud_mm"
+1	"Bahia La Paz"	"Verano"	"H"	"Superficie"	30.27
+2	"Bahia La Paz"	"Verano"	"M"	"Superficie"	35.5
+3	"Bahia La Paz"	"Verano"	"H"	"Superficie"	30.36
+4	"Bahia La Paz"	"Verano"	"H"	"Superficie"	24.86
+5	"Bahia La Paz"	"Verano"	"M"	"Superficie"	31.81
+6	"Bahia La Paz"	"Verano"	"H"	"Superficie"	29.51
+7	"Bahia La Paz"	"Verano"	"H"	"Superficie"	26.62
+8	"Bahia La Paz"	"Verano"	"M"	"Superficie"	26.24
+9	"Bahia La Paz"	"Verano"	"H"	"Superficie"	29.35
+10	"Bahia La Paz"	"Verano"	"M"	"Superficie"	34.36
+11	"Bahia La Paz"	"Verano"	"H"	"Superficie"	34.66
+12	"Bahia La Paz"	"Verano"	"H"	"Superficie"	30.41
+13	"Bahia La Paz"	"Verano"	"H"	"Superficie"	31.65
+14	"Bahia La Paz"	"Verano"	"H"	"Fondo"	21.86
+15	"Bahia La Paz"	"Verano"	"H"	"Fondo"	19.89
+16	"Bahia La Paz"	"Verano"	"M"	"Fondo"	23.51
+17	"Bahia La Paz"	"Verano"	"H"	"Fondo"	21.49
+18	"Bahia La Paz"	"Verano"	"M"	"Fondo"	24.06
+19	"Bahia La Paz"	"Verano"	"H"	"Fondo"	18.09
+20	"Bahia La Paz"	"Verano"	"H"	"Fondo"	19.18
+21	"Bahia La Paz"	"Verano"	"H"	"Fondo"	21.32
+22	"Bahia La Paz"	"Verano"	"H"	"Fondo"	23.31
+23	"Bahia La Paz"	"Verano"	"M"	"Fondo"	20.85
+24	"Bahia La Paz"	"Verano"	"M"	"Fondo"	23.6
+25	"Bahia La Paz"	"Invierno"	"M"	"Superficie"	39.62
+26	"Bahia La Paz"	"Invierno"	"M"	"Superficie"	34.26
+27	"Bahia La Paz"	"Invierno"	"H"	"Superficie"	37.82
+28	"Bahia La Paz"	"Invierno"	"H"	"Superficie"	40.57
+29	"Bahia La Paz"	"Invierno"	"M"	"Superficie"	37.54
+30	"Bahia La Paz"	"Invierno"	"M"	"Superficie"	38.78
+31	"Bahia La Paz"	"Invierno"	"H"	"Superficie"	38.13
+32	"Bahia La Paz"	"Invierno"	"M"	"Superficie"	33.96
+33	"Bahia La Paz"	"Invierno"	"H"	"Superficie"	44.1
+34	"Bahia La Paz"	"Invierno"	"H"	"Superficie"	38.93
+35	"Bahia La Paz"	"Invierno"	"M"	"Superficie"	32
+36	"Bahia La Paz"	"Invierno"	"M"	"Superficie"	40.12
+37	"Bahia La Paz"	"Invierno"	"H"	"Superficie"	38.62
+38	"Bahia La Paz"	"Invierno"	"M"	"Fondo"	26.57
+39	"Bahia La Paz"	"Invierno"	"M"	"Fondo"	27.32
+40	"Bahia La Paz"	"Invierno"	"H"	"Fondo"	29.53
+41	"Bahia La Paz"	"Invierno"	"H"	"Fondo"	31.06
+42	"Bahia La Paz"	"Invierno"	"H"	"Fondo"	29.98
+43	"Bahia La Paz"	"Invierno"	"H"	"Fondo"	28.21
+44	"Bahia La Paz"	"Invierno"	"M"	"Fondo"	27.67
+45	"Bahia La Paz"	"Invierno"	"H"	"Fondo"	27.7
+46	"Bahia La Paz"	"Invierno"	"M"	"Fondo"	26.19
+47	"Bahia La Paz"	"Invierno"	"M"	"Fondo"	26.18
+48	"Bahia La Paz"	"Invierno"	"H"	"Fondo"	29.29
+49	"Asuncion"	"Verano"	"H"	"Superficie"	35.61
+50	"Asuncion"	"Verano"	"M"	"Superficie"	42.87
+51	"Asuncion"	"Verano"	"H"	"Superficie"	36.42
+52	"Asuncion"	"Verano"	"M"	"Superficie"	38.02
+53	"Asuncion"	"Verano"	"M"	"Superficie"	56.93
+54	"Asuncion"	"Verano"	"M"	"Superficie"	52.81
+55	"Asuncion"	"Verano"	"H"	"Superficie"	42.6
+56	"Asuncion"	"Verano"	"H"	"Superficie"	36.18
+57	"Asuncion"	"Verano"	"H"	"Superficie"	53.64
+58	"Asuncion"	"Verano"	"M"	"Superficie"	43.11
+59	"Asuncion"	"Verano"	"H"	"Superficie"	46.5
+60	"Asuncion"	"Verano"	"H"	"Superficie"	54.15
+61	"Asuncion"	"Verano"	"H"	"Superficie"	44.69
+62	"Asuncion"	"Verano"	"H"	"Fondo"	31.27
+63	"Asuncion"	"Verano"	"H"	"Fondo"	33.84
+64	"Asuncion"	"Verano"	"M"	"Fondo"	34.38
+65	"Asuncion"	"Verano"	"H"	"Fondo"	33.8
+66	"Asuncion"	"Verano"	"H"	"Fondo"	35.46
+67	"Asuncion"	"Verano"	"M"	"Fondo"	33.66
+68	"Asuncion"	"Verano"	"M"	"Fondo"	35.21
+69	"Asuncion"	"Verano"	"H"	"Fondo"	24.78
+70	"Asuncion"	"Verano"	"M"	"Fondo"	25.84
+71	"Asuncion"	"Verano"	"H"	"Fondo"	36.64
+72	"Asuncion"	"Verano"	"M"	"Fondo"	25.9
+73	"Asuncion"	"Invierno"	"H"	"Superficie"	36.37
+74	"Asuncion"	"Invierno"	"M"	"Superficie"	40.15
+75	"Asuncion"	"Invierno"	"H"	"Superficie"	43.25
+76	"Asuncion"	"Invierno"	"M"	"Superficie"	37.73
+77	"Asuncion"	"Invierno"	"M"	"Superficie"	43.35
+78	"Asuncion"	"Invierno"	"M"	"Superficie"	42.55
+79	"Asuncion"	"Invierno"	"M"	"Superficie"	39.7
+80	"Asuncion"	"Invierno"	"M"	"Superficie"	41.18
+81	"Asuncion"	"Invierno"	"M"	"Superficie"	35.82
+82	"Asuncion"	"Invierno"	"M"	"Superficie"	36.9
+83	"Asuncion"	"Invierno"	"H"	"Superficie"	40.56
+84	"Asuncion"	"Invierno"	"M"	"Superficie"	44.74
+85	"Asuncion"	"Invierno"	"M"	"Superficie"	34.95
+86	"Asuncion"	"Invierno"	"H"	"Fondo"	33.68
+87	"Asuncion"	"Invierno"	"H"	"Fondo"	30.93
+88	"Asuncion"	"Invierno"	"H"	"Fondo"	29.1
+89	"Asuncion"	"Invierno"	"H"	"Fondo"	32.03
+90	"Asuncion"	"Invierno"	"H"	"Fondo"	28.44
+91	"Asuncion"	"Invierno"	"H"	"Fondo"	30.92
+92	"Asuncion"	"Invierno"	"H"	"Fondo"	30.04
+93	"Asuncion"	"Invierno"	"H"	"Fondo"	35.19
+94	"Asuncion"	"Invierno"	"H"	"Fondo"	32.64
+95	"Asuncion"	"Invierno"	"H"	"Fondo"	30.85
+96	"Asuncion"	"Invierno"	"M"	"Fondo"	26.34
+97	"Todos Santos"	"Verano"	"H"	"Superficie"	26.95
+98	"Todos Santos"	"Verano"	"M"	"Superficie"	18.83
+99	"Todos Santos"	"Verano"	"H"	"Superficie"	25.1
+100	"Todos Santos"	"Verano"	"M"	"Superficie"	10.95
+101	"Todos Santos"	"Verano"	"M"	"Superficie"	23.17
+102	"Todos Santos"	"Verano"	"H"	"Superficie"	21.85
+103	"Todos Santos"	"Verano"	"H"	"Superficie"	36.11
+104	"Todos Santos"	"Verano"	"H"	"Superficie"	25.68
+105	"Todos Santos"	"Verano"	"H"	"Superficie"	46.97
+106	"Todos Santos"	"Verano"	"H"	"Superficie"	22.75
+107	"Todos Santos"	"Verano"	"H"	"Superficie"	17.57
+108	"Todos Santos"	"Verano"	"H"	"Superficie"	29.74
+109	"Todos Santos"	"Verano"	"H"	"Superficie"	20.1
+110	"Todos Santos"	"Verano"	"M"	"Fondo"	7.63
+111	"Todos Santos"	"Verano"	"H"	"Fondo"	27.19
+112	"Todos Santos"	"Verano"	"M"	"Fondo"	13.97
+113	"Todos Santos"	"Verano"	"M"	"Fondo"	27.22
+114	"Todos Santos"	"Verano"	"M"	"Fondo"	9.78
+115	"Todos Santos"	"Verano"	"M"	"Fondo"	17.08
+116	"Todos Santos"	"Verano"	"H"	"Fondo"	23.63
+117	"Todos Santos"	"Verano"	"M"	"Fondo"	19.2
+118	"Todos Santos"	"Verano"	"M"	"Fondo"	21.33
+119	"Todos Santos"	"Verano"	"H"	"Fondo"	13.59
+120	"Todos Santos"	"Verano"	"M"	"Fondo"	21.74
+121	"Todos Santos"	"Invierno"	"H"	"Superficie"	16.74
+122	"Todos Santos"	"Invierno"	"M"	"Superficie"	17.66
+123	"Todos Santos"	"Invierno"	"H"	"Superficie"	23.88
+124	"Todos Santos"	"Invierno"	"H"	"Superficie"	10.34
+125	"Todos Santos"	"Invierno"	"H"	"Superficie"	13.32
+126	"Todos Santos"	"Invierno"	"H"	"Superficie"	17.09
+127	"Todos Santos"	"Invierno"	"H"	"Superficie"	18.58
+128	"Todos Santos"	"Invierno"	"M"	"Superficie"	15.09
+129	"Todos Santos"	"Invierno"	"H"	"Superficie"	16.13
+130	"Todos Santos"	"Invierno"	"H"	"Superficie"	8.95
+131	"Todos Santos"	"Invierno"	"M"	"Superficie"	33.39
+132	"Todos Santos"	"Invierno"	"M"	"Superficie"	13.37
+133	"Todos Santos"	"Invierno"	"H"	"Superficie"	21.23
+134	"Todos Santos"	"Invierno"	"H"	"Fondo"	18.03
+135	"Todos Santos"	"Invierno"	"M"	"Fondo"	17.7
+136	"Todos Santos"	"Invierno"	"H"	"Fondo"	9.37
+137	"Todos Santos"	"Invierno"	"H"	"Fondo"	15.61
+138	"Todos Santos"	"Invierno"	"M"	"Fondo"	15.18
+139	"Todos Santos"	"Invierno"	"H"	"Fondo"	16.12
+140	"Todos Santos"	"Invierno"	"H"	"Fondo"	30.14
+141	"Todos Santos"	"Invierno"	"H"	"Fondo"	6.2
+142	"Todos Santos"	"Invierno"	"H"	"Fondo"	23.01
+143	"Todos Santos"	"Invierno"	"H"	"Fondo"	19.09
+144	"Todos Santos"	"Invierno"	"M"	"Fondo"	18.12
